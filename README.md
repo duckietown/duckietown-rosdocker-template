@@ -1,3 +1,7 @@
+# IMPORTANT!!!
+
+THIS REPOSITORY HAS BEEN DEPRECIATED. USE [THIS](https://github.com/duckietown/template-basic) FOR NON-ROS PROJECTS OR [THIS](https://github.com/duckietown/template-ros) FOR ROS PROJECTS.
+
 # Guide to duckietown-rosdocker-template
 A template for a Docker container for a ROS Node that supplements the Duckietown ROS core.
 
